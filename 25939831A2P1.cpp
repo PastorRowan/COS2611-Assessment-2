@@ -1,7 +1,7 @@
-// COS2611_2024_As2_P1.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
 //25939831
 //Rowan Van Zyl
+
+// See the Github repository at https://github.com/PastorRowan/COS2611-Assessment-2
 
 #include <iostream>
 #include <vector>
@@ -9,7 +9,6 @@
 #include <cmath>
 
 using namespace std;
-
 
 //Function for the first sorting algorithm
 
